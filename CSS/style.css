@@ -1,0 +1,9 @@
+nav {
+    position: relative;
+    width: 100%;
+    background-color: #030720;
+}
+
+.nav-item {
+    display: inline-block;
+}

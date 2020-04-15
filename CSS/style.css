@@ -77,42 +77,8 @@ section {
 /*Footer Starts here*/
 
 footer {
-    display: flex;
     background-color: #030720;
-    height: 400px;
-}
-
-
-#contact {
-    display: flex;
-    flex-direction: column;
-    width: 45%;
-    height: 300px;
-    background-color: #030720;
-    color: #ffffff;
-}
-
-form {
-    display: block;
-    padding-left: 60px;
-    padding-bottom: 30px;
-
-}
-input {
-    display: block;
-    width: 400px;
-    height: 20px;
-    padding-left: 20px;
-    margin-left: 20px;
-    color: #030720;
-    background-color: #D7F2D6;
-}
-#message {
-    height: 100px;
-}
-
-#arrow {
-    padding-inline-start: 260px;
+    height: 450px;
 }
 
 #online {
@@ -120,15 +86,14 @@ input {
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    width: 50%;
     height: 300px;
+    padding-top: 50px;
     background-color: #030720;
     color: #ffffff;
 }
 
 p {
     font-family: 'Open Sans', sans-serif;
-    margin-top: 100px;
     position: relative;
 }
 
